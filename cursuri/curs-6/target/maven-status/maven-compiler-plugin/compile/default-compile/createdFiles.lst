@@ -1,0 +1,5 @@
+jsf\model\HelloWorld.class
+jsf\model\employee\EmployeeBean.class
+jsf\model\Message.class
+jpa\Employee$EmployeeBuilder.class
+jpa\Employee.class
